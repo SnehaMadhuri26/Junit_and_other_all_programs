@@ -13,6 +13,7 @@ public class Alltypes {
 		//This is Selenium 
 		//And this has all methods we use
 		//Added another line as of test2
+		//Now for adding main restrictions to user as well
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.gecko.driver",
 				  "C:\\Users\\002QU9744\\Documents\\SELENIUM\\Drivers\\geckodriver-v0.33.0-win64\\geckodriver.exe" );
