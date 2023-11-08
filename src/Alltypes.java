@@ -10,6 +10,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class Alltypes {
 
 	public static void main(String[] args) throws InterruptedException {
+		//This is Selenium 
+		//And this has all methods we use
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.gecko.driver",
 				  "C:\\Users\\002QU9744\\Documents\\SELENIUM\\Drivers\\geckodriver-v0.33.0-win64\\geckodriver.exe" );
